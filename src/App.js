@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import ContactForm from "./components/Switch";
 import Nav from "./components/Nav";
 import About from "./components/About";
 import Gallery from "./components/Gallery";
